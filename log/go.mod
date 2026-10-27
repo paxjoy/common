@@ -1,4 +1,4 @@
-module github.com/prunalis/common/log
+module github.com/paxjoy/common/log
 
 go 1.26.0
 
